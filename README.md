@@ -11,9 +11,13 @@ I use it all the time when jumping from directory to directory
 when I want to find something in a large code base
 
 ### tldr
-when I want to use a comand line tools quickly without reading all the man page
+when I want to use a command line tools quickly without reading all the man page:
+
+
 
 ### Mac tools
-- Alfred
-- Espanso
+- [Espanso](https://espanso.org) -  awesome text expander
+
+- [Alfred](https://www.alfredapp.com/) - productivity app
+
 
