@@ -3,7 +3,7 @@
 
 
 ### bat
-It's like cat but fancier
+It's like cat but fancier [bat](https://github.com/sharkdp/bat)
 
 ### z
 I use it all the time when jumping from repo to repo
